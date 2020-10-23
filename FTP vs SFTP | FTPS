@@ -1,0 +1,18 @@
+FTP 是File Transfer Protocol（文件傳輸協議）的英文簡稱，而中文簡稱為「文傳協議」。用於Internet上的控制文件的雙向傳輸。同時，它也是一個應用程式（Application）。基於不同的作業系統有不同的FTP應用程式，而所有這些應用程式都遵守同一種協議以傳輸文件。在FTP的使用當中，用戶經常遇到兩個概念：」下載」（Download）和」上傳」（Upload）。」
+
+簡單地說，支持FTP協議的伺服器就是FTP伺服器。
+
+與大多數Internet服務一樣，FTP也是一個客戶機/伺服器系統。用戶通過一個支持FTP協議的客戶機程序，連接到在遠程主機上的FTP伺服器程序
+
+FTPS
+
+一種多傳輸協議，相當於加密版的FTP。FTPS是在安全套接層使用標準的FTP協議和指令的一種增強型FTP協議，為FTP協議和數據通道增加了SSL安全功能。FTPS也稱作「FTP-SSL」和「FTP-over-SSL」
+
+Sftp是Secure File Transfer Protocol的縮寫，安全文件傳送協議。可以為傳輸文件提供一種安全的加密方法。sftp 與 ftp 有著幾乎一樣的語法和功能。SFTP 為 SSH的一部分，是一種傳輸檔案至 Blogger 伺服器的安全方式
+
+SFTP 和FTPS都是為ftp連接加密，協議非常相似。
+
+一個是藉助ssl協議加密，一個時藉助ssh加密。
+
+ssl是為http/smtp等加密設計的，ssh是為telnet/ftp等加密、建立傳輸通道而設計的。
+
