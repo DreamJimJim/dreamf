@@ -1,28 +1,29 @@
-### 1.bandwidth與bps[相關題]:
-(1)Bandwidth技術單位為bps
-(2)頻寬分別用於計量不同電子技術要求
-(3)網路頻寬
-
-### 2.RFID:
+### 1.RFID:
 (1)英文全名:Radio Frequency IDentification
 (2)是一種無通線訊技術
 (3)可以通過無線電訊號識別特定目標並讀寫相關數據
  
+
+### 2.bandwidth與bps[相關題]:
+(1)Bandwidth技術單位為bps
+(2)頻寬分別用於計量不同電子技術要求
+(3)網路頻寬
  
 ### 3.NFC:
 (1)英文全名:Near-field communication，NFC       
 (2)近距離通訊，是一種通訊協定
 (3)應用於社群網路，分享聯絡方式、相片、影片或檔案
 
-### 4.cellular network:
+### 4.technology addiction
+(1)網路成癮
+(2)精神因素影響
+(3)環境因素
+
+### 5.cellular network:
 (1)組成: 1.基站子系統 2.移動站 3.網路子系統
 (2)蜂巢式網路又稱行動網路
 (3)分為類比和數位
 
-### 5.technology addiction
-(1)網路成癮
-(2)精神因素影響
-(3)環境因素
 
 ### 6.{1}Crowdsourcing VS {2}Crowdfunding[比較題]:
 (1)現在基本用來表達向公眾籌標準化勞動
@@ -31,15 +32,15 @@
 (4)性質不同
 (5)特徵不同
 
-### 7.metadata:
-(1)中文:元資料
-(2)分別是記述性、結構性、管理性元資料
-(3)又稱詮釋資料、中介資料
-
-### 8.CMS:
+### 7.CMS:
 (1)英文全名:Responsive web design，通常縮寫為RWD
 (2)一種網頁設計的技術作法
 (3)自適應網頁設計、回應式網頁設計、對應式網頁設計
+
+### 8.metadata:
+(1)中文:元資料
+(2)分別是記述性、結構性、管理性元資料
+(3)又稱詮釋資料、中介資料
 
 ### 9.DDOS(Attack):
 (1)英文全名:Distributed denial-of-service attack
