@@ -53,12 +53,12 @@ addslashes ( string $string ) : string
 反斜杠(\)
 NULL
 
-會有這樣的需求主要在於部份的特殊符號會造成資料庫的錯誤或資料被竊取，所謂的 sql injection 這種攻擊手法就會用一些特殊符號來偷撈資料
+有這樣的需求主要在於部份的特殊符號可能會造成資料庫的錯誤或資料被竊取，所謂的 sql 這種攻擊手法就會用一些特殊符號來偷撈資料
 所以一般會用 PHP addslashes 函數來協助避免，讓特殊符號跳脫掉，等於是失效
 與 addslashes 函數相對的是用來移除反斜線的 stripslashes 函數。
 
 
 stripslashes ( string $string ) : string
 功能是用來去除字串中多餘的反斜線（\）
-1.用來過濾網頁上的資料
-2.用來還原 addslashes 函數處理過的字串
+1.過濾網頁上的資料
+2.用來還原 addslashes 函數處理的字串
